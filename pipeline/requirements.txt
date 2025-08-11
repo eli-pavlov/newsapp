@@ -1,5 +1,0 @@
-flask
-pytest
-flake8
-coverage
-beautifulsoup4
